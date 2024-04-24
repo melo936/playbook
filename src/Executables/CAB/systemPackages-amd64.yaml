@@ -683,3 +683,4 @@ updates:
     version: 38655.38527.65535.65535
   - target_component: Microsoft-Windows-User-Choice-Protection-Deployment-LanguagePack
     target_arch: amd64
+    version: 38655.38527.65535.65535
