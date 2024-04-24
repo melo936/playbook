@@ -673,3 +673,13 @@ updates:
   - target_component: Microsoft-Windows-SystemSettings-SettingsHandlers-OneDriveBackup
     target_arch: amd64
     version: 38655.38527.65535.65535
+
+
+  - target_component: Microsoft-Windows-User-Choice-Protection
+    target_arch: amd64
+    version: 38655.38527.65535.65535
+  - target_component: Microsoft-Windows-User-Choice-Protection-Deployment
+    target_arch: amd64
+    version: 38655.38527.65535.65535
+  - target_component: Microsoft-Windows-User-Choice-Protection-Deployment-LanguagePack
+    target_arch: amd64
