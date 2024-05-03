@@ -50,4 +50,4 @@ actions:
 
   # == UCPD velocity - Disabled
   - !service: {name: 'UCPD', operation: change, startup: 4}
-  - !powerShell: {command: "Disable-ScheduledTask -TaskPath '\\Microsoft\\Windows\\AppxDeploymentClient' -TaskName 'UCPD velocity'"}
+  - !scheduledTask: {path: '\Microsoft\Windows\AppxDeploymentClient\UCPD velocity', operation: disable}

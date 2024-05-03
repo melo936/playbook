@@ -12,5 +12,6 @@ features:
 - features\revision\components.yml
 - features\revision\appx.yml
 - features\revision\registry.yml
+- features\revision\scheduled-tasks.yml
 - features\revision\revert.yml
 - features\revision\config.yml
